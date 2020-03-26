@@ -10,6 +10,7 @@ namespace vjezba1git
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Promjena koda");
         }
     }
 }
