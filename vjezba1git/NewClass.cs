@@ -8,5 +8,6 @@ namespace vjezba1git
 {
     class NewClass
     {
+        int a;
     }
 }
